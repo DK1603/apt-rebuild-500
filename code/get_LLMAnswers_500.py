@@ -25,9 +25,7 @@ OUTPUT_FILE = PROJECT_ROOT / "ArticlesDataset_LLMAnswered.csv"
 LLM_MODEL = "gemini-2.5-flash"
 EMBEDDING_MODEL = "text-embedding-004"
 BATCH_SIZE = 5
-# Free tier limit: 500 requests per day per API key
-# Each article = 6 questions = 6 requests
-# 500 requests = ~83 articles (500/6 = 83.33)
+
 MAX_REQUESTS = 700
 SLEEP_TIME = 1
 
