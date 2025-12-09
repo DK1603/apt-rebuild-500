@@ -1,0 +1,9 @@
+# API Keys for LLM and Embeddings
+# Set these as environment variables or create a .env file
+
+# OpenAI API Key (for embeddings)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Google API Key (for Gemini LLM)
+GOOGLE_API_KEY=your_google_api_key_here
+
