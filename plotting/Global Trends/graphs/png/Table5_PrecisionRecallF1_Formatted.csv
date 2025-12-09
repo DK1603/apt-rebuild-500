@@ -1,0 +1,8 @@
+Search Item,IoCParser_P,IoCParser_R,IoCParser_F1,Gemini_P,Gemini_R,Gemini_F1
+CVE,0.98,0.92,0.95,-,-,-
+MITRE ID,0.95,0.94,0.95,-,-,-
+YARA,1.00,0.88,0.94,-,-,-
+Attack vector*,-,-,-,0.86,0.77,0.81
+Malware*,-,-,-,0.70,0.91,0.79
+Target sector*,-,-,-,0.88,0.82,0.85
+Average,0.98,0.91,0.95,0.81,0.83,0.82
